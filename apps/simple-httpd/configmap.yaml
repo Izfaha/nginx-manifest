@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: simple-httpd-html
+data:
+  index.html: |
+    Ini tampilan dari HTTPD dan nama saya Fa'iz Maulana H
